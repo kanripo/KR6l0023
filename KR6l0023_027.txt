@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.532862
+#+DATE: 2015-08-30 20:50:59.942391
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUBUBEN
 #+PROPERTY: LASTPB <pb:KR6l0023_T_027-0140a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 27
 ¶
 ¶
-
- 《阿毘達磨俱舍論》卷第二十七¶
+《阿毘達磨俱舍論》卷第二十七¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -568,7 +567,7 @@
 能變化心。彼亦能為自他身化。於十色處¶
 化九除聲。理實無能化為根者。然所化境¶
 不離根故。言化九處亦無有失。天眼耳¶
-言為目何義。頌曰。¶
+言為因何義。頌曰。¶
 
 #+BEGIN_VERSE
 「　天眼耳謂根
@@ -578,7 +577,7 @@
 #+END_VERSE
 」¶
 
-論曰。此言唯目天眼耳根。即四靜慮所生淨¶
+論曰。此言唯因天眼耳根。即四靜慮所生淨¶
 色。謂緣光聲修加行故。依四靜慮於眼¶
 耳邊引起彼地微妙大種所造淨色眼耳二¶
 根。見色聞聲名天眼耳。如是眼耳何故名¶

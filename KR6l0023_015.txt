@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.133484
+#+DATE: 2015-08-30 20:50:59.588147
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6l0023_T_015-0077c> ¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS T@LIUBUBEN
+#+PROPERTY: LASTPB <pb:KR6l0023_T_015-0077c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《阿毘達磨俱舍論》卷第十五¶
+《阿毘達磨俱舍論》卷第十五¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -198,7 +197,7 @@
 勝義苾芻密意作是說。此言兇勃。兇勃者¶
 何。謂於世尊了義所說以別義釋令成不¶
 了。與多煩惱者為犯重罪緣。寧知此言是¶
-了義說。由律自釋有四苾芻。一名想苾芻。¶
+了義說。律中自釋有四苾芻。一名想苾芻。¶
 二自稱苾芻。三乞匃苾芻。四破惑苾芻。此義¶
 中言非苾芻者。謂非白四羯磨受具足戒¶
 苾芻。非此苾芻先是勝義。後由犯重成非¶

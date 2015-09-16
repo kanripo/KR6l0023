@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.074067
+#+DATE: 2015-08-30 20:50:59.516675
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUBUBEN
 #+PROPERTY: LASTPB <pb:KR6l0023_T_013-0067b> 
 #+PROPERTY: JUAN 13
 ¶
-
- 《阿毘達磨俱舍論》卷第十三¶
+《阿毘達磨俱舍論》卷第十三¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
 
-4分別業品
-:PROPERTIES:
-:head: 分別業品第四之一
-:END:
-¶
+分別業品第四之一¶
 
 如前所說有情世間及器世間各多差別。如¶
 是差別由誰而生。頌曰。¶
@@ -134,7 +129,7 @@
 此長色於餘色聚一面少中假立短色。於¶
 四方面並多生中假立方色。於一切處遍¶
 滿生中假立圓色。所餘形色隨應當知如¶
-見火㷮。於一方面無間速運。便謂為長。見¶
+見火[火*曹]。於一方面無間速運。便謂為長。見¶
 彼周旋謂為圓色。故形無實別類色體。若¶
 謂實有別類形色。則應一色二根所取。謂¶
 於色聚長等差別。眼見身觸俱能了知。由¶

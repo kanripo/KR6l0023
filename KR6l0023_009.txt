@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:50.947525
+#+DATE: 2015-08-30 20:50:59.391874
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LIUBUBEN
 #+PROPERTY: LASTPB <pb:KR6l0023_T_009-0045c> ¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《阿毘達磨俱舍論》卷第九¶
+《阿毘達磨俱舍論》卷第九¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -96,7 +95,7 @@
 眼。亦能得見。諸生得眼皆不能觀。以極細¶
 故。有餘師說。天中有眼具足能見。五趣中有。¶
 人鬼傍生地獄中有見四三二一。謂自下除¶
-上。一切通中業通最疾。𣣋虛自在是謂通¶
+上。一切通中業通最疾。[夌*欠]虛自在是謂通¶
 義。通由業得名為業通。此通勢用速故名
 <pb:KR6l0023_T_009-0046b>¶
 疾。中有具得最疾業通。上至世尊無能遮¶
