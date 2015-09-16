@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.472524
+#+DATE: 2015-08-30 20:51:01.279328
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHI
 #+PROPERTY: LASTPB <pb:KR6l0023_T_025-0129a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 25
 ¶
 ¶
-
- 《阿毘達磨俱舍論》卷第二十五¶
+《阿毘達磨俱舍論》卷第二十五¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶

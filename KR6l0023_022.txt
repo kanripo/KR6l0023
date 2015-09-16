@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.376316
+#+DATE: 2015-08-30 20:51:01.199395
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHI
 #+PROPERTY: LASTPB <pb:KR6l0023_T_022-0113c> 
 #+PROPERTY: JUAN 22
 ¶
-
- 《阿毘達磨俱舍論》卷第二十二¶
+《阿毘達磨俱舍論》卷第二十二¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
 
-6分別賢聖品
-:PROPERTIES:
-:head: 分別賢聖品第六之一
-:END:
-¶
+分別賢聖品第六之一¶
 
 如是已說煩惱等斷於九勝位得遍知名。¶
 然斷必由道力故得。此所由道其相云何。¶
