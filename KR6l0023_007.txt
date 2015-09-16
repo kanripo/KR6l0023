@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:50.882530
+#+DATE: 2015-08-30 20:51:03.623216
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0023_T_007-0036b> ¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《阿毘達磨俱舍論》卷第七¶
+《阿毘達磨俱舍論》卷第七¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.342878
+#+DATE: 2015-08-30 20:51:04.068161
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0023_T_021-0108b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 21
 ¶
 ¶
-
- 《阿毘達磨俱舍論》卷第二十一¶
+《阿毘達磨俱舍論》卷第二十一¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -341,7 +340,7 @@
 亦名資糧。治謂能治。亦名非食。用謂事用。¶
 亦名功能。由此經中作如是說。惛眠雖二¶
 食非食同。何等名為惛眠蓋食。謂五種法。一¶
-𧄼瞢。二不樂。三頻申。四食不平性。五心昧劣¶
+[夢-夕+登]瞢。二不樂。三頻申。四食不平性。五心昧劣¶
 性。何等名為此蓋非食。謂光明想。如是二¶
 種事用亦同。謂俱能令心性沈昧。掉悔雖¶
 二食非食同。何等名為掉悔蓋食。謂四種¶

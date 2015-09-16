@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:50.759951
+#+DATE: 2015-08-30 20:51:03.484278
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0023_T_003-0013b> ¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《阿毘達磨俱舍論》卷第三¶
+《阿毘達磨俱舍論》卷第三¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
 
-2分別根品
-:PROPERTIES:
-:head: 分別根品第二之一
-:END:
-¶
+分別根品第二之一¶
 
 如是因界已列諸根。即於此中根是何¶
 義。最勝自在光顯名根。由此總成根增上¶

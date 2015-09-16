@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:50.977666
+#+DATE: 2015-08-30 20:51:03.710714
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0023_T_010-0051c> 
 #+PROPERTY: JUAN 10
 ¶
-
- 《阿毘達磨俱舍論》卷第十¶
+《阿毘達磨俱舍論》卷第十¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -178,8 +177,7 @@
 與觸為後為俱。毘婆沙師說。俱時起觸受¶
 展轉俱有因故。云何二法俱時而生能生所¶
 生義可成立。如何不立。無功能故。於已生¶
-法餘法無能。此與立宗義意無別。如言二¶
-法俱時而生能生所生義不成立。於已生法¶
+法餘法無能。此與立宗義意無別。如言二法俱時而生能生所生義不成立。於已生法¶
 餘法無能。義意同前。重說何用。若爾便有¶
 互相生失。許故非失。我宗許二為俱有因。¶
 亦互為果。仁雖許爾。而契經中不許此二¶
