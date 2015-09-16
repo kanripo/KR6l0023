@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.590298
+#+DATE: 2015-08-30 20:51:02.871517
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0023_T_029-0150b> ¶¶¶¶¶
 #+PROPERTY: JUAN 29
 ¶
-
- 《阿毘達磨俱舍論》卷第二十九¶
+《阿毘達磨俱舍論》卷第二十九¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -283,11 +282,7 @@
 #+END_VERSE
 」¶
 
-9破執我品
-:PROPERTIES:
-:head: 破執我品第九之一
-:END:
-¶
+破執我品第九之一¶
 
 越此依餘豈無解脫。理必無有。所以者何。¶
 虛妄我執所迷亂故。謂此法外諸所執我。非¶

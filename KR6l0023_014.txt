@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.100035
+#+DATE: 2015-08-30 20:51:02.381987
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0023_T_014-0072b> 
 #+PROPERTY: JUAN 14
 ¶
-
- 《阿毘達磨俱舍論》卷第十四¶
+《阿毘達磨俱舍論》卷第十四¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -702,8 +701,7 @@
 逸處故。由是獨立放逸處名。餘不立此名。
 <pb:KR6l0023_T_014-0077c>¶
 皆是性罪故。然說數習墮惡趣者。顯數飲¶
-酒能令身中諸不善法相續轉故。又能引¶
-發惡趣業故。或能令彼轉增盛故。如契經¶
+酒能令身中諸不善法相續轉故。又能引發惡趣業故。或能令彼轉增盛故。如契經¶
 說。窣羅迷麗耶末陀放逸處。依何義說。醞¶
 食成酒名為窣羅。醞餘物所成名迷麗耶¶
 酒。即前二酒未熟已壞不能令醉不名末¶

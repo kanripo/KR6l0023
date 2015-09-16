@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:50.786545
+#+DATE: 2015-08-30 20:51:02.056914
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0023_T_004-0018b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
-
- 《阿毘達磨俱舍論》卷第四¶
+《阿毘達磨俱舍論》卷第四¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -161,7 +160,7 @@
 
 #+BEGIN_VERSE
 「　癡逸怠不信
-　惛掉恒唯染
+　惛悼恒唯染
 #+END_VERSE
 」¶
 
@@ -397,7 +396,7 @@
 於初靜慮具足五支。具五支言。就一地說¶
 非一剎那故無有過。如是已說尋伺差別。¶
 慢憍別者。慢謂對他心自舉性。稱量自他德¶
-類差別。心自舉恃𣣋蔑於他故名為慢。¶
+類差別。心自舉恃[夌*欠]蔑於他故名為慢。¶
 憍謂染著自法為先令心傲逸無所顧性。¶
 有餘師說。如因酒生欣舉差別說名為醉。¶
 如是貪生欣舉差別說名為憍。是謂慢憍差¶

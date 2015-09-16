@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:50.851813
+#+DATE: 2015-08-30 20:51:02.126329
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0023_T_006-0030a> 
 #+PROPERTY: JUAN 6
 ¶
-
- 《阿毘達磨俱舍論》卷第六¶
+《阿毘達磨俱舍論》卷第六¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -462,7 +461,7 @@
 有說。諸法生已後無。自然滅故名非擇滅。如¶
 是所執非擇滅體應是無常。未滅無故。豈¶
 不擇滅擇為先故。先無後有應亦無常。非¶
-擇為先方有擇滅。如何擇滅亦是無常。所¶
+擇為先方有擇減。如何擇滅亦是無常。所¶
 以者何。非先有擇後未生法方有不生。何¶
 者。不生本來自有。若無簡擇諸法應生。¶
 簡擇生時法永不起。於此不起擇有功能。¶

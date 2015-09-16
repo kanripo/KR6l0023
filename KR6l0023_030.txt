@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.617166
+#+DATE: 2015-08-30 20:51:02.900885
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0023_T_030-0155a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
 ¶
-
- 《阿毘達磨俱舍論》卷第三十¶
+《阿毘達磨俱舍論》卷第三十¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -68,7 +67,7 @@
 不記命者即身。觀能問者阿世耶故。問者¶
 執一內用士夫體實非虛名為命者。依此¶
 問佛與身一異。此都無故一異不成。如何¶
-與身可記一異。如不可記龜毛䩕軟。¶
+與身可記一異。如不可記龜毛[革*卬]軟。¶
 古昔諸師已解斯結。昔有大德名曰龍軍。¶
 三明六通具八解脫。于時有一畢隣陀王。¶
 至大德所作如是說。我今來意欲請所疑。¶

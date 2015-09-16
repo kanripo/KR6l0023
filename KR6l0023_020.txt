@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.307861
+#+DATE: 2015-08-30 20:51:02.587746
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0023_T_020-0104a> 
 #+PROPERTY: JUAN 20
 ¶
-
- 《阿毘達磨俱舍論》卷第二十¶
+《阿毘達磨俱舍論》卷第二十¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -393,7 +392,7 @@
 引見取生。謂計能淨已必執為勝故。從此¶
 見取次引貪生。謂自見中情深愛故。從此¶
 貪後次引慢生。謂自見中深愛著己。恃生¶
-高舉𣣋蔑他故。從此慢後次引生瞋。謂¶
+高舉[夌*欠]蔑他故。從此慢後次引生瞋。謂¶
 自見中深愛恃己。於他所起違己見中情¶
 不能忍必憎嫌故。有餘師說。於自見解取¶
 捨位中起憎嫌故。見諦所斷貪等生時。緣¶
