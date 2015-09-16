@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.166879
+#+DATE: 2015-08-30 20:51:05.317891
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0023_T_016-0083b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 《阿毘達磨俱舍論》卷第十六¶
+《阿毘達磨俱舍論》卷第十六¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -203,7 +202,7 @@
 無。於此義中如何建立加行根本後起位¶
 耶。且不善中最初殺業。如屠羊者將行殺¶
 時。先發殺心從床而起。執持價直趣賣¶
-羊廛。㨊觸羊身酬價捉取。牽還養飯將¶
+羊廛。[捐-口+左]觸羊身酬價捉取。牽還養飯將¶
 入屠坊。手執杖刀若打若刺。或一或再至¶
 命未終。如是皆名殺生加行。隨此表業彼¶
 正命終。此剎那頃表無表業。是謂殺生根本¶

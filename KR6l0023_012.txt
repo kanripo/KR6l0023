@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.042947
+#+DATE: 2015-08-30 20:51:05.203518
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0023_T_012-0062a> ¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
 ¶
-
- 《阿毘達磨俱舍論》卷第十二¶
+《阿毘達磨俱舍論》卷第十二¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
@@ -537,7 +536,7 @@
 異體不應定俱時滅。此二體別理必不然。¶
 以審觀時非離色等有別地等。故非體¶
 別。又彼宗中自許地等眼身所取寧異色¶
-觸。又燒毛㲲紅花等時。彼覺則無故。毛等¶
+觸。又燒毛[疊*毛]紅花等時。彼覺則無故。毛等¶
 覺但緣色等差別而起。熟變生時形量等故。¶
 猶如行伍記識瓶盆。若不觀形不記識故。¶
 誰當採錄愚類狂言。故對彼宗廣諍應止。¶

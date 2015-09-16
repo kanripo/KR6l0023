@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:51.497947
+#+DATE: 2015-08-30 20:51:05.647785
 #+TITLE: 阿毘達磨俱舍論
 #+PROPERTY: CBETA_ID T29n1558
 #+PROPERTY: ID KR6l0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1558
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0023_T_026-0134b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 26
 ¶
 ¶
-
- 《阿毘達磨俱舍論》卷第二十六¶
+《阿毘達磨俱舍論》卷第二十六¶
 ¶
 尊者世親造¶
 三藏法師玄奘奉　詔譯¶
 
-7分別智品
-:PROPERTIES:
-:head: 分別智品第七之一
-:END:
-¶
+分別智品第七之一¶
 
 前品初說諸忍諸智。於後復說正見正智。¶
 為有忍非智耶。為有智非見耶。頌曰。¶
